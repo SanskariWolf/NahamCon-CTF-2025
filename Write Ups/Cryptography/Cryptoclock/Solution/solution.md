@@ -126,9 +126,6 @@ log.info("Connection closed.")
 Running the script against the server:
 
 ```
-(venv)
-(user
-host)-[~/path/to/challenge]
 $ python solve.py
 [*] Connecting to challenge.nahamcon.com:31098
 [+] Opening connection to challenge.nahamcon.com on port 31098: Done
